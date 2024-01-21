@@ -1,0 +1,101 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\projects\\TerekhovTest\\wwwroot\\Gnostice\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\Gnostice\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\projects\\TerekhovTest\\wwwroot\\Gnostice\\css\\documentviewer.css",
+      "PackagePath": "staticwebassets\\Gnostice\\css\\documentviewer.css"
+    },
+    {
+      "Id": "D:\\projects\\TerekhovTest\\wwwroot\\Gnostice\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\Gnostice\\css\\solid.min.css"
+    },
+    {
+      "Id": "D:\\projects\\TerekhovTest\\wwwroot\\Gnostice\\css\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Gnostice\\css\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\projects\\TerekhovTest\\wwwroot\\Gnostice\\css\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Gnostice\\css\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\projects\\TerekhovTest\\wwwroot\\Gnostice\\css\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Gnostice\\css\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\projects\\TerekhovTest\\wwwroot\\Gnostice\\css\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Gnostice\\css\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\projects\\TerekhovTest\\wwwroot\\Gnostice\\css\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Gnostice\\css\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\projects\\TerekhovTest\\wwwroot\\Gnostice\\css\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Gnostice\\css\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\projects\\TerekhovTest\\wwwroot\\Gnostice\\css\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Gnostice\\css\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\projects\\TerekhovTest\\wwwroot\\Gnostice\\css\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Gnostice\\css\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\projects\\TerekhovTest\\wwwroot\\Gnostice\\css\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Gnostice\\css\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\projects\\TerekhovTest\\wwwroot\\Gnostice\\css\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Gnostice\\css\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\projects\\TerekhovTest\\wwwroot\\Gnostice\\css\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Gnostice\\css\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\projects\\TerekhovTest\\wwwroot\\Gnostice\\css\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Gnostice\\css\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\projects\\TerekhovTest\\wwwroot\\Gnostice\\css\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Gnostice\\css\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\projects\\TerekhovTest\\wwwroot\\Gnostice\\css\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Gnostice\\css\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\projects\\TerekhovTest\\wwwroot\\Gnostice\\css\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Gnostice\\css\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\projects\\TerekhovTest\\wwwroot\\Gnostice\\js\\documentviewer.min.js",
+      "PackagePath": "staticwebassets\\Gnostice\\js\\documentviewer.min.js"
+    },
+    {
+      "Id": "D:\\projects\\TerekhovTest\\wwwroot\\Gnostice\\localization\\Messages.properties",
+      "PackagePath": "staticwebassets\\Gnostice\\localization\\Messages.properties"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TerekhovTest.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TerekhovTest.props",
+      "PackagePath": "build\\TerekhovTest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TerekhovTest.props",
+      "PackagePath": "buildMultiTargeting\\TerekhovTest.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TerekhovTest.props",
+      "PackagePath": "buildTransitive\\TerekhovTest.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
